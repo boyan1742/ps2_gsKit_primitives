@@ -6,7 +6,7 @@
 # Licenced under Academic Free License version 2.0
 # Review ps2sdk README & LICENSE files for further details.
 
-PS2DEV = /mnt/e/boyan/gamedev/ps2dev
+PS2DEV = /usr/local
 PS2SDK = $(PS2DEV)/ps2sdk
 GSKIT = $(PS2DEV)/gsKit
 PS2EEBIN = $(PS2DEV)/ee/bin
