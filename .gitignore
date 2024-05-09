@@ -1,0 +1,10 @@
+.idea/**
+.vscode/**
+.vs/**
+
+*.iso
+*.o
+*.obj
+*.elf
+[Bb]in/**
+[Oo]bj/**
